@@ -55,3 +55,22 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saniabatool&layout=compact&theme=radical)
 
 ---
+
+---
+
+
+### 📈 My GitHub Stats
+
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=saniabatool&theme=dark)](https://git.io/streak-stats)
+</div>
+
+<div align="center">
+  [![Saniabatool's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=saniabatool&theme=dark)](https://github.com/saniabatool)
+</div>
+
+<div align="center">
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=saniabatool&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+---
