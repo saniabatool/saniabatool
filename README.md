@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/74640103?v=4" alt="Mehdi Abidi's Profile Picture" width="150">
+  <img src="https://avatars.githubusercontent.com/u/188590599?s=400&u=4768eaf9254ea49e4c0a70a2d3c20d9418fbbed9&v=4" alt="saniabatool's Profile Picture" width="150">
 </div>
 
 <div align="center">
@@ -23,7 +23,6 @@
 
 ### 🌐 Socials:
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saniabatoolabro4@gmail.com)
 
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:**saniabatoolabro1@gmail.com**)
@@ -38,7 +37,7 @@
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 
-#### <0xF0><0x9F><0x8C><0x90> Web Development
+#### 🌐 Web Development
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
