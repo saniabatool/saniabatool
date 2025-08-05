@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <p>I'm a passionate **Software Engineering Student** focused on building amazing things.</p>
+  <p>I'm a passionate Software Engineering Student focused on building amazing things.</p>
 </div>
 
 ---
