@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>Hi, I'm Sania Batool👋</h2>
+  <h2>Hi, I'm Sania Batool 👋</h2>
 </div>
 
 <div align="center">
@@ -14,14 +14,16 @@
 
 ### 💻 About Me:
 
-* * <0xF0><0x9F><0xA6><0xB9> I'm a **Software Engineering** undergrad passionate about **AI, Machine Learning, and Web Development**. 🚀
-* <0xF0><0x9F><0xA7><0xAE> Currently exploring **Web Development**.
-* <0xF0><0x9F><0xAA><0xB4> Always learning and open to collaboration.
+* 👋 I'm a **Software Engineering** undergrad passionate about **AI, Machine Learning, and Web Development**. 🚀
+* 🔭 Currently exploring **Web Development**.
+* 💬 Always learning and open to collaboration.
 * ✨ Let's connect!
 
 ---
 
-### <0xF0><0x9F><0x8C><0x90> Socials:
+### 🌐 Socials:
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saniabatoolabro4@gmail.com)
 
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:**saniabatoolabro1@gmail.com**)
