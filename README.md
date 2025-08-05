@@ -56,21 +56,13 @@
 
 ---
 
----
-
 
 ### 📈 My GitHub Stats
 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=saniabatool&theme=dark)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saniabatool&theme=dark)](https://git.io/streak-stats)
 
-<div align="center">
-  [![Saniabatool's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=saniabatool&theme=dark)](https://github.com/saniabatool)
-</div>
+[![Saniabatool's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=saniabatool&theme=dark)](https://github.com/saniabatool)
 
-<div align="center">
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=saniabatool&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=saniabatool&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
