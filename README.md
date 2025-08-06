@@ -59,9 +59,8 @@
 
 ### 📈 My GitHub Stats
 
-## 🔥 GitHub Streak
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=saniabatool&theme=dark)](https://git.io/streak-stats)
+
 
 
 [![Saniabatool's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=saniabatool&theme=dark)](https://github.com/saniabatool)
